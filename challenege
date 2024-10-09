@@ -1,0 +1,39 @@
+#Challenge1
+
+joke =  input("Do you wanna know a joke :any word that rejects this doesnet exist")
+answer= input("You.")
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#Challenge 2
+
+name = (input("What is your name?"))
+print("hey",name)
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Challenge 3
+# A=WL
+
+rect = int(input("what is the width of the rectangle"))
+angle = int(input("what is the length of the rectangle"))
+area = rect * angle
+print("The area of the rectangle is", area)
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#challenge 4
+#program to determine distance travelled using speed and time
+
+speed = int(input("How fast do you travel per hour"))
+distance = speed * 60
+print("(KM) You travel",distance)
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
