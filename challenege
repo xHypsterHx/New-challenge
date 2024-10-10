@@ -25,8 +25,17 @@ speed = int(input("How fast do you travel per hour"))
 distance = speed * 60
 print("(KM) You travel",distance)
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#challenge 5 
 
 
+birth = int(input("hey , how old are yu?"))
+days = birth * 365
+print ("Yu lived foorr..hmmmm",days,"days, too many")
+
+
+sec = birth * 31556926
+print("also for ",sec,"secounds")
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
